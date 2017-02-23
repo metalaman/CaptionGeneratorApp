@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">CaptionGenerator</string>
+    <string name="app_name">CameraTest</string>
+    <string name="take_picture">Capture</string>
 </resources>

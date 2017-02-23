@@ -1,4 +1,4 @@
-package com.neuralnuts.captiongenerator;
+package com.namic.cameratest;
 
 import org.junit.Test;
 
